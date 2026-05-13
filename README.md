@@ -87,7 +87,7 @@ TOP PERFORMER PER CLASS
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@SuyashC832](https://github.com/yourusername)
 
 ---
 
